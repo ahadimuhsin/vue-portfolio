@@ -25,9 +25,8 @@ const Projects = {
                 <div class="bio__media">
                     <img src="./assets/img/avatar.png" alt="">
                     <div class="bio__media__text">
-                        <h1>John Doe</h1>
-                        <h3>Python Expert</h3>
-                        <p>Lorem ipsim dolor sit amet</p>
+                        <h1>Muhsin Ahadi</h1>
+                        <h3>Web Developer</h3>
                     </div>    
                 </div>
 
